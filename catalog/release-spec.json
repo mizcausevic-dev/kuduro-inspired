@@ -1,0 +1,84 @@
+{
+  "pack_identifier": "kuduro-inspired",
+  "display_name": "Kuduro-Inspired Studies",
+  "brief_name": "Kuduro-inspired",
+  "creative_intention": "Sharp rhythmic exchange with concise, contrasting melodic gestures.",
+  "rhythmic_direction": "Angular kick-and-answer cells trade with concise melodic interruptions.",
+  "palette": "Hard-edged synth stabs, compact bass, narrow-range lead and dry percussion.",
+  "guardrail": "Inspired is a bounded production direction and does not represent a community or history.",
+  "generator_version": "release-train-1.0.0",
+  "reproducible_command": "python tools/build_release.py --pack kuduro-inspired",
+  "actual_tempo_bpm": 140,
+  "meter": "4/4",
+  "ppq": 480,
+  "end_tick": 61440,
+  "roles": [
+    {
+      "role": "chord_pulse",
+      "wire_channel": 0,
+      "user_facing_channel": 1,
+      "polyphony_cap": 3
+    },
+    {
+      "role": "sub_bass",
+      "wire_channel": 1,
+      "user_facing_channel": 2,
+      "polyphony_cap": 1
+    },
+    {
+      "role": "principal_motif",
+      "wire_channel": 2,
+      "user_facing_channel": 3,
+      "polyphony_cap": 1
+    },
+    {
+      "role": "vocal_like_synth",
+      "wire_channel": 3,
+      "user_facing_channel": 4,
+      "polyphony_cap": 1
+    },
+    {
+      "role": "counter_texture",
+      "wire_channel": 4,
+      "user_facing_channel": 5,
+      "polyphony_cap": 2
+    },
+    {
+      "role": "drums",
+      "wire_channel": 9,
+      "user_facing_channel": 10,
+      "polyphony_cap": 4
+    }
+  ],
+  "studies": [
+    {
+      "id": "ku01",
+      "title": "Edge Relay",
+      "tonic": "E",
+      "pitch_collection": "pack-local equal-tempered pitch collection"
+    },
+    {
+      "id": "ku02",
+      "title": "Turn Cell",
+      "tonic": "G",
+      "pitch_collection": "pack-local equal-tempered pitch collection"
+    },
+    {
+      "id": "ku03",
+      "title": "Wire Move",
+      "tonic": "A#",
+      "pitch_collection": "pack-local equal-tempered pitch collection"
+    },
+    {
+      "id": "ku04",
+      "title": "Hard Return",
+      "tonic": "F",
+      "pitch_collection": "pack-local equal-tempered pitch collection"
+    }
+  ],
+  "limitations": [
+    "Original symbolic material; no samples.",
+    "Automated validation is technical evidence, not copyright clearance.",
+    "The listening file is a simple-synthesis preview, not a master."
+  ]
+}

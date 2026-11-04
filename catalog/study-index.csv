@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+ku01,Edge Relay,pack-local equal-tempered pitch collection,E,140,4/4,480,32,61440,midi/ku01-edge-relay/ku01-edge-relay-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+ku02,Turn Cell,pack-local equal-tempered pitch collection,G,140,4/4,480,32,61440,midi/ku02-turn-cell/ku02-turn-cell-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+ku03,Wire Move,pack-local equal-tempered pitch collection,A#,140,4/4,480,32,61440,midi/ku03-wire-move/ku03-wire-move-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+ku04,Hard Return,pack-local equal-tempered pitch collection,F,140,4/4,480,32,61440,midi/ku04-hard-return/ku04-hard-return-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
