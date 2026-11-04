@@ -1,0 +1,26 @@
+{
+  "title": "Kuduro-Inspired",
+  "study": "ku01",
+  "bpm": 140,
+  "source_audio": "preview/kuduro-inspired-simple-synth-preview.mp3",
+  "source_audio_sha256": "f500425d748f992b500deda9bf4996b501dc9572f38603f77e476349c54d6d1a",
+  "source_midi": "midi/ku01-edge-relay/ku01-edge-relay-combined.mid",
+  "source_midi_sha256": "954c64e6d84fbcf884c5e904226f54f1646c728a234e7561ad73e19ba981dfd7",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "558533702bf49ea4d34031b0312c986addb651de92837c047a89267f70043afb",
+  "art_source_file": "film/motion-artwork.webp",
+  "art_source_sha256": "b9cc9783b8eaed8fdb47e02b685559e62dce30f155e8cbbfe7f2680edbdb8c16",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/motion-preview.mp4",
+  "video_sha256": "ecf3957b4d837041fee520d4cf198a99882a7a79f6c160e2f37662b75991706b",
+  "caption": "film/motion-preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
