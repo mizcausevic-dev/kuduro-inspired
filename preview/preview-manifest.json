@@ -1,9 +1,9 @@
 {
   "label": "preview, not a master.",
   "preview_path": "preview/kuduro-inspired-simple-synth-preview.mp3",
-  "preview_sha256": "f500425d748f992b500deda9bf4996b501dc9572f38603f77e476349c54d6d1a",
+  "preview_sha256": "75e58b50eb4d3cb1f6a386d8979c75d40ab04476189fa12a3a0583e70657e448",
   "source_midi_path": "midi/ku01-edge-relay/ku01-edge-relay-combined.mid",
-  "source_midi_sha256": "954c64e6d84fbcf884c5e904226f54f1646c728a234e7561ad73e19ba981dfd7",
+  "source_midi_sha256": "b4c21599db52a2a0021caa1038f1e51092a97249d78d629fe91c953f7a6de2cf",
   "renderer": "release-simple-synth 1.0.0",
   "renderer_configuration": {
     "sample_rate": 44100,
@@ -23,7 +23,7 @@
     "end_seconds": 54.857
   },
   "measurement": {
-    "sample_peak": 0.172678,
+    "sample_peak": 0.148505,
     "not_lufs_or_true_peak": true
   },
   "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
