@@ -78,8 +78,8 @@
     },
     {
       "path": "downloads/kuduro-inspired-midi.zip",
-      "bytes": 35740,
-      "sha256": "dff77a6479c6d97465be52af92591fa5edb3b1e9bf436af8b7ce36c6e78781a1"
+      "bytes": 38151,
+      "sha256": "4e2055f7e427d2b814d4040e64de477877cf95607c2dd2aec69cc3329ddac7e8"
     },
     {
       "path": "film/motion-artwork.webp",
@@ -113,8 +113,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10228,
-      "sha256": "bea28edd1f6feb2651eb49c65fe25c96a8424395f2b8860f3c44701da2e54cbe"
+      "bytes": 10418,
+      "sha256": "adbbd4648b5f43da2a187b8ca81aa4ca922a152f6cc57978f1b2165d11501b13"
     },
     {
       "path": "midi/ku01-edge-relay/chord_pulse.mid",
@@ -257,6 +257,11 @@
       "sha256": "d56d76960018967ff7e5ebcc895d24625e506b7f72be5316a78c6302313703a4"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "MOTION-PREVIEW.md",
       "bytes": 786,
       "sha256": "41a9674291adf371b06bfa00dc1c6147f8133ca74d321904c7a223f8c3fb1990"
@@ -273,8 +278,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3359,
-      "sha256": "21ca46f0b794781b099431f9661802733272a55a85aab24801f63cf2eccf8e35"
+      "bytes": 3474,
+      "sha256": "9300e85d683bf50e810dc268a645b55028196495be909790b28e1d941af777e1"
     },
     {
       "path": "RENDERER-METADATA-CORRECTION.md",
